@@ -41,13 +41,13 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <meta property="og:site_name" content="Zen Root" />
         <meta property="og:title" content="Zen Root" />
         <meta property="og:description" content="Find your center. A mindful space for clarity and calm." />
-        <meta property="og:image" content="https://zenroot.io/images/icon.png" />
+        <meta property="og:image" content="https://zenroot.io/images/meta.png" />
         <meta property="og:url" content="https://zenroot.io" />
 
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:title" content="Zen Root" />
         <meta name="twitter:description" content="Find your center. A mindful space for clarity and calm." />
-        <meta name="twitter:image" content="https://zenroot.io/images/icon.png" />
+        <meta name="twitter:image" content="https://zenroot.io/images/meta.png" />
 
         <Meta />
         <Links />

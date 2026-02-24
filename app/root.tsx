@@ -32,6 +32,23 @@ export function Layout({ children }: { children: React.ReactNode }) {
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        {/* Static meta for bots/crawlers (before JS loads) */}
+        <title>Zen Root</title>
+        <meta name="description" content="Find your center. A mindful space for clarity and calm." />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Zen Root" />
+        <meta property="og:title" content="Zen Root" />
+        <meta property="og:description" content="Find your center. A mindful space for clarity and calm." />
+        <meta property="og:image" content="https://zenroot.io/images/icon.png" />
+        <meta property="og:url" content="https://zenroot.io" />
+
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:title" content="Zen Root" />
+        <meta name="twitter:description" content="Find your center. A mindful space for clarity and calm." />
+        <meta name="twitter:image" content="https://zenroot.io/images/icon.png" />
+
         <Meta />
         <Links />
       </head>

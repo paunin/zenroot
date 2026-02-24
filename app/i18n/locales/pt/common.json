@@ -1,0 +1,63 @@
+{
+  "site": {
+    "title": "Zen Root",
+    "description": "Encontre seu centro. Um espaço consciente para clareza e calma."
+  },
+  "nav": {
+    "home": "Início",
+    "about": "Sobre"
+  },
+  "home": {
+    "hero": "Encontre Seu Centro",
+    "subtitle": "Um espaço consciente projetado para clareza, calma e foco em um mundo barulhento.",
+    "cta": "Começar"
+  },
+  "about": {
+    "title": "Sobre o Zen Root",
+    "description": "Zen Root é um espaço digital consciente criado para aqueles que buscam clareza e calma. Acreditamos que a tecnologia deve ajudá-lo a se concentrar, não distrair.",
+    "mission": {
+      "title": "Nossa Missão",
+      "text": "Criar experiências digitais que promovam a atenção plena e o bem-estar."
+    },
+    "philosophy": {
+      "title": "Nossa Filosofia",
+      "text": "Menos ruído, mais sinal. Cada elemento é projetado com intenção, cada interação elaborada com cuidado."
+    }
+  },
+  "products": {
+    "radio": {
+      "description": "Transmissões de rádio ambiente e foco para te manter na zona."
+    },
+    "launcher": {
+      "description": "Um launcher minimalista e sem distrações para trazer calma à sua tela inicial."
+    }
+  },
+  "launcher": {
+    "coming_soon": "Conteúdo em breve.",
+    "description": "Uma nova aba calma e produtiva — clima, e-mail, notas, sons ambientes e muito mais em um espaço bonito. O Zen Launcher transforma cada nova aba em um momento de clareza. Em vez de uma página em branco ou uma parede de favoritos, você tem um painel tranquilo que reúne tudo o que você realmente precisa — sem que nada dispute sua atenção."
+  },
+  "radio": {
+    "description": "Zen Radio transmite música ambiente e de foco curada para te manter na zona — lofi, sons da natureza e mais, tocando suavemente em qualquer navegador."
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "privacy": "Política de Privacidade"
+  },
+  "settings": {
+    "title": "Configurações",
+    "language_label": "Idioma"
+  },
+  "language": {
+    "label": "Idioma",
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ru": "Русский",
+    "zh": "中文",
+    "pt": "Português",
+    "ko": "한국어",
+    "it": "Italiano"
+  }
+}

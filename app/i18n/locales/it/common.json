@@ -1,0 +1,63 @@
+{
+  "site": {
+    "title": "Zen Root",
+    "description": "Trova il tuo centro. Uno spazio consapevole per chiarezza e calma."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Chi siamo"
+  },
+  "home": {
+    "hero": "Trova il Tuo Centro",
+    "subtitle": "Uno spazio consapevole progettato per chiarezza, calma e concentrazione in un mondo rumoroso.",
+    "cta": "Inizia"
+  },
+  "about": {
+    "title": "Su Zen Root",
+    "description": "Zen Root è uno spazio digitale consapevole creato per chi cerca chiarezza e calma. Crediamo che la tecnologia debba aiutarti a concentrarti, non a distrarti.",
+    "mission": {
+      "title": "La Nostra Missione",
+      "text": "Creare esperienze digitali che promuovano la consapevolezza e il benessere."
+    },
+    "philosophy": {
+      "title": "La Nostra Filosofia",
+      "text": "Meno rumore, più segnale. Ogni elemento è progettato con intenzione, ogni interazione realizzata con cura."
+    }
+  },
+  "products": {
+    "radio": {
+      "description": "Flussi radio ambient e focus curati per aiutarti a rimanere nella zona."
+    },
+    "launcher": {
+      "description": "Un launcher minimalista e privo di distrazioni per portare calma nella tua schermata principale."
+    }
+  },
+  "launcher": {
+    "coming_soon": "Contenuto in arrivo.",
+    "description": "Una nuova scheda tranquilla e produttiva — meteo, e-mail, note, suoni ambientali e molto altro in un bello spazio unico. Zen Launcher trasforma ogni nuova scheda in un momento di chiarezza. Invece di una pagina bianca o di un muro di segnalibri, ottieni una dashboard silenziosa che riunisce tutto ciò di cui hai davvero bisogno — senza che nulla lotti per la tua attenzione."
+  },
+  "radio": {
+    "description": "Zen Radio trasmette musica ambient e per la concentrazione curata per tenerti nella zona — lofi, suoni della natura e altro, in riproduzione silenziosa in qualsiasi browser."
+  },
+  "footer": {
+    "rights": "Tutti i diritti riservati.",
+    "privacy": "Informativa sulla Privacy"
+  },
+  "settings": {
+    "title": "Impostazioni",
+    "language_label": "Lingua"
+  },
+  "language": {
+    "label": "Lingua",
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ru": "Русский",
+    "zh": "中文",
+    "pt": "Português",
+    "ko": "한국어",
+    "it": "Italiano"
+  }
+}

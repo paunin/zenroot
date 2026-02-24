@@ -1,0 +1,63 @@
+{
+  "site": {
+    "title": "Zen Root",
+    "description": "Trouvez votre centre. Un espace attentif pour la clarté et le calme."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos"
+  },
+  "home": {
+    "hero": "Trouvez Votre Centre",
+    "subtitle": "Un espace attentif conçu pour la clarté, le calme et la concentration dans un monde bruyant.",
+    "cta": "Commencer"
+  },
+  "about": {
+    "title": "À propos de Zen Root",
+    "description": "Zen Root est un espace numérique attentif conçu pour ceux qui recherchent la clarté et le calme. Nous croyons que la technologie doit vous aider à vous concentrer, pas à vous distraire.",
+    "mission": {
+      "title": "Notre Mission",
+      "text": "Créer des expériences numériques qui favorisent la pleine conscience et le bien-être."
+    },
+    "philosophy": {
+      "title": "Notre Philosophie",
+      "text": "Moins de bruit, plus de signal. Chaque élément est conçu avec intention, chaque interaction élaborée avec soin."
+    }
+  },
+  "products": {
+    "radio": {
+      "description": "Des flux radio ambiants et de concentration pour vous aider à rester dans la zone."
+    },
+    "launcher": {
+      "description": "Un lanceur minimaliste et sans distraction conçu pour apporter la sérénité à votre écran d'accueil."
+    }
+  },
+  "launcher": {
+    "coming_soon": "Contenu à venir.",
+    "description": "Un nouvel onglet calme et productif — météo, e-mails, notes, sons ambiants et plus encore dans un bel espace. Zen Launcher transforme chaque nouvel onglet en un moment de clarté. Au lieu d'une page blanche ou d'un mur de favoris, vous obtenez un tableau de bord tranquille qui rassemble tout ce dont vous avez vraiment besoin — sans que rien ne se batte pour attirer votre attention."
+  },
+  "radio": {
+    "description": "Zen Radio diffuse de la musique ambiante et de concentration pour vous garder dans la zone — lofi, sons de la nature et plus, joués doucement dans n'importe quel navigateur."
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "privacy": "Politique de Confidentialité"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "language_label": "Langue"
+  },
+  "language": {
+    "label": "Langue",
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ru": "Русский",
+    "zh": "中文",
+    "pt": "Português",
+    "ko": "한국어",
+    "it": "Italiano"
+  }
+}

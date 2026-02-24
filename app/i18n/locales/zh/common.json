@@ -1,0 +1,63 @@
+{
+  "site": {
+    "title": "Zen Root",
+    "description": "找到你的中心。一个为清晰和平静而设计的正念空间。"
+  },
+  "nav": {
+    "home": "首页",
+    "about": "关于"
+  },
+  "home": {
+    "hero": "找到你的中心",
+    "subtitle": "一个为清晰、平静和专注而设计的正念空间，在喧嚣的世界中。",
+    "cta": "开始"
+  },
+  "about": {
+    "title": "关于 Zen Root",
+    "description": "Zen Root 是一个为追求清晰和平静的人们打造的正念数字空间。我们相信技术应该帮助你专注，而不是分散注意力。",
+    "mission": {
+      "title": "我们的使命",
+      "text": "创造促进正念和幸福感的数字体验。"
+    },
+    "philosophy": {
+      "title": "我们的理念",
+      "text": "减少噪音，增加信号。每个元素都经过精心设计，每次交互都精心打造。"
+    }
+  },
+  "products": {
+    "radio": {
+      "description": "精选氛围音乐与专注电台，助你进入心流状态。"
+    },
+    "launcher": {
+      "description": "一款简洁无干扰的启动器，为你的主屏幕带来宁静。"
+    }
+  },
+  "launcher": {
+    "coming_soon": "内容即将推出。",
+    "description": "一个平静、高效的新标签页 — 天气、邮件、笔记、环境音效等，汇聚在一个美丽的空间。Zen Launcher 将每次新标签页变成一个清醒的时刻。不再是空白页面或书签墙，而是一个安静的仪表盘，将你真正需要的一切整合在一起 — 无需任何东西争夺你的注意力。"
+  },
+  "radio": {
+    "description": "Zen Radio 精心策划氛围音乐与专注电台，助你进入心流状态 — 低保真音乐、自然声音等，在任何浏览器中静静播放。"
+  },
+  "footer": {
+    "rights": "版权所有。",
+    "privacy": "隐私政策"
+  },
+  "settings": {
+    "title": "设置",
+    "language_label": "语言"
+  },
+  "language": {
+    "label": "语言",
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ru": "Русский",
+    "zh": "中文",
+    "pt": "Português",
+    "ko": "한국어",
+    "it": "Italiano"
+  }
+}

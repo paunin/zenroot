@@ -1,0 +1,63 @@
+{
+  "site": {
+    "title": "Zen Root",
+    "description": "Finden Sie Ihre Mitte. Ein achtsamer Raum für Klarheit und Ruhe."
+  },
+  "nav": {
+    "home": "Startseite",
+    "about": "Über uns"
+  },
+  "home": {
+    "hero": "Finden Sie Ihre Mitte",
+    "subtitle": "Ein achtsamer Raum für Klarheit, Ruhe und Fokus in einer lauten Welt.",
+    "cta": "Loslegen"
+  },
+  "about": {
+    "title": "Über Zen Root",
+    "description": "Zen Root ist ein achtsamer digitaler Raum für alle, die Klarheit und Ruhe suchen. Wir glauben, dass Technologie Ihnen helfen sollte, sich zu konzentrieren, nicht abzulenken.",
+    "mission": {
+      "title": "Unsere Mission",
+      "text": "Digitale Erlebnisse schaffen, die Achtsamkeit und Wohlbefinden fördern."
+    },
+    "philosophy": {
+      "title": "Unsere Philosophie",
+      "text": "Weniger Lärm, mehr Signal. Jedes Element ist mit Absicht gestaltet, jede Interaktion mit Sorgfalt gefertigt."
+    }
+  },
+  "products": {
+    "radio": {
+      "description": "Kuratierte Ambient- und Fokus-Radio-Streams, die Ihnen helfen, im Flow zu bleiben."
+    },
+    "launcher": {
+      "description": "Ein minimalistischer, ablenkungsfreier Launcher für mehr Ruhe auf Ihrem Startbildschirm."
+    }
+  },
+  "launcher": {
+    "coming_soon": "Inhalte folgen in Kürze.",
+    "description": "Ein ruhiger, produktiver neuer Tab — Wetter, E-Mails, Notizen, Umgebungsgeräusche und mehr in einem schönen Raum. Zen Launcher verwandelt jeden neuen Tab in einen Moment der Klarheit. Statt einer leeren Seite oder einer Wand voller Lesezeichen erhalten Sie ein stilles Dashboard, das alles zusammenführt, was Sie wirklich brauchen — ohne dass irgendetwas um Ihre Aufmerksamkeit kämpft."
+  },
+  "radio": {
+    "description": "Zen Radio streamt kuratierte Ambient- und Fokusmusik, damit Sie im Flow bleiben — Lofi, Naturgeräusche und mehr, leise in jedem Browser abgespielt."
+  },
+  "footer": {
+    "rights": "Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz"
+  },
+  "settings": {
+    "title": "Einstellungen",
+    "language_label": "Sprache"
+  },
+  "language": {
+    "label": "Sprache",
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ru": "Русский",
+    "zh": "中文",
+    "pt": "Português",
+    "ko": "한국어",
+    "it": "Italiano"
+  }
+}

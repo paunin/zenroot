@@ -1,0 +1,63 @@
+{
+  "site": {
+    "title": "Zen Root",
+    "description": "Encuentra tu centro. Un espacio consciente para la claridad y la calma."
+  },
+  "nav": {
+    "home": "Inicio",
+    "about": "Acerca de"
+  },
+  "home": {
+    "hero": "Encuentra Tu Centro",
+    "subtitle": "Un espacio consciente diseñado para la claridad, la calma y el enfoque en un mundo ruidoso.",
+    "cta": "Comenzar"
+  },
+  "about": {
+    "title": "Sobre Zen Root",
+    "description": "Zen Root es un espacio digital consciente creado para quienes buscan claridad y calma. Creemos que la tecnología debe ayudarte a concentrarte, no distraerte.",
+    "mission": {
+      "title": "Nuestra Misión",
+      "text": "Crear experiencias digitales que promuevan la atención plena y el bienestar."
+    },
+    "philosophy": {
+      "title": "Nuestra Filosofía",
+      "text": "Menos ruido, más señal. Cada elemento está diseñado con intención, cada interacción elaborada con cuidado."
+    }
+  },
+  "products": {
+    "radio": {
+      "description": "Transmisiones de radio ambiental y de concentración para mantenerte en el estado de flujo."
+    },
+    "launcher": {
+      "description": "Un lanzador minimalista y libre de distracciones diseñado para aportar calma a tu pantalla de inicio."
+    }
+  },
+  "launcher": {
+    "coming_soon": "Contenido próximamente.",
+    "description": "Una nueva pestaña tranquila y productiva — clima, correo, notas, sonidos ambientales y más en un hermoso espacio. Zen Launcher convierte cada nueva pestaña en un momento de claridad. En lugar de una página en blanco o un muro de marcadores, obtienes un panel silencioso que reúne todo lo que realmente necesitas — sin que nada compita por tu atención."
+  },
+  "radio": {
+    "description": "Zen Radio transmite música ambiental y de concentración para mantenerte en el flujo — lofi, sonidos de la naturaleza y más, reproducidos suavemente en cualquier navegador."
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados.",
+    "privacy": "Política de Privacidad"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "language_label": "Idioma"
+  },
+  "language": {
+    "label": "Idioma",
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ru": "Русский",
+    "zh": "中文",
+    "pt": "Português",
+    "ko": "한국어",
+    "it": "Italiano"
+  }
+}

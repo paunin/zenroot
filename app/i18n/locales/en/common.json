@@ -1,0 +1,62 @@
+{
+  "site": {
+    "title": "Zen Root",
+    "description": "Find your center. A mindful space for clarity and calm."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About"
+  },
+  "home": {
+    "hero": "Find Your Center",
+    "subtitle": "A mindful space designed for clarity, calm, and focus in a noisy world.",
+    "cta": "Get Started"
+  },
+  "about": {
+    "title": "About Zen Root",
+    "description": "Zen Root is a mindful digital space crafted for those seeking clarity and calm. We believe technology should help you focus, not distract.",
+    "mission": {
+      "title": "Our Mission",
+      "text": "To create digital experiences that promote mindfulness and well-being."
+    },
+    "philosophy": {
+      "title": "Our Philosophy",
+      "text": "Less noise, more signal. Every element is designed with intention, every interaction crafted with care."
+    }
+  },
+  "products": {
+    "radio": {
+      "description": "Curated ambient and focus radio streams to help you stay in the zone."
+    },
+    "launcher": {
+      "description": "A minimal, distraction-free launcher designed to bring calm to your home screen."
+    }
+  },
+  "launcher": {
+    "description": "A calm, productive new tab — weather, email, notes, ambient sounds, and more in one beautiful space. Zen Launcher turns every new tab into a moment of clarity. Instead of a blank page or a wall of bookmarks, you get a quiet dashboard that brings together the things you actually reach for — without making any of them fight for attention."
+  },
+  "radio": {
+    "description": "Zen Radio streams curated ambient and focus music to help you stay in the zone — lofi, nature sounds, and more, playing quietly in any browser."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "privacy": "Privacy Policy"
+  },
+  "settings": {
+    "title": "Settings",
+    "language_label": "Language"
+  },
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "es": "Español",
+    "fr": "Français",
+    "de": "Deutsch",
+    "ja": "日本語",
+    "ru": "Русский",
+    "zh": "中文",
+    "pt": "Português",
+    "ko": "한국어",
+    "it": "Italiano"
+  }
+}

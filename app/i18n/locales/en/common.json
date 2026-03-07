@@ -30,6 +30,9 @@
     },
     "launcher": {
       "description": "A minimal, distraction-free launcher designed to bring calm to your home screen."
+    },
+    "widgets": {
+      "description": "A visual desktop widget set for time, calendar, and everyday system stats in one focused layout."
     }
   },
   "launcher": {
@@ -37,6 +40,9 @@
   },
   "radio": {
     "description": "Zen Radio streams curated ambient and focus music to help you stay in the zone — lofi, nature sounds, and more, playing quietly in any browser."
+  },
+  "widgets": {
+    "description": "Zen Widgets turns your desktop into a calm command center with a clean clock, date, calendar, and lightweight system panels."
   },
   "footer": {
     "rights": "All rights reserved.",

@@ -22,6 +22,13 @@ const products = [
     external: false,
     image: "radio.png",
   },
+  {
+    name: "Zen Widgets",
+    descriptionKey: "products.widgets.description",
+    href: "/widgets",
+    external: false,
+    image: "widgets.png",
+  },
 ];
 
 export default function Home() {

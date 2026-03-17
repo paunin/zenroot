@@ -9,11 +9,18 @@ export const meta: MetaFunction = () => [
 
 const products = [
   {
-    name: "Zen Launcher",
-    descriptionKey: "products.launcher.description",
-    href: "/launcher",
+    name: "Zen Colors",
+    descriptionKey: "products.colors.description",
+    href: "/colors",
     external: false,
-    image: "launcher.jpg",
+    image: "colors.png",
+  },
+  {
+    name: "Zen Widgets",
+    descriptionKey: "products.widgets.description",
+    href: "/widgets",
+    external: false,
+    image: "widgets.png",
   },
   {
     name: "Zen Radio",
@@ -23,11 +30,11 @@ const products = [
     image: "radio.png",
   },
   {
-    name: "Zen Widgets",
-    descriptionKey: "products.widgets.description",
-    href: "/widgets",
+    name: "Zen Launcher",
+    descriptionKey: "products.launcher.description",
+    href: "/launcher",
     external: false,
-    image: "widgets.png",
+    image: "launcher.jpg",
   },
 ];
 

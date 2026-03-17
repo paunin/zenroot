@@ -1,5 +1,4 @@
 import type { MetaFunction } from "@remix-run/node";
-import { Link } from "@remix-run/react";
 import { useTranslation } from "react-i18next";
 
 export const meta: MetaFunction = () => [
@@ -10,7 +9,7 @@ export default function Widgets() {
   const { t } = useTranslation();
 
   return (
-    <div className="max-w-2xl mx-auto px-6 py-16">
+    <div className="max-w-4xl mx-auto px-6 py-16">
       <img
         src="/images/widgets.png"
         alt="Zen Widgets"
@@ -38,14 +37,6 @@ export default function Widgets() {
           </svg>
         </a>
 
-        <span className="mx-auto" />
-
-        <Link
-          to="/privacy-policy"
-          className="text-sm text-text-secondary hover:text-text-primary transition-colors"
-        >
-          {t("footer.privacy")}
-        </Link>
       </div>
     </div>
   );

@@ -42,7 +42,7 @@ export default function Home() {
   const { t } = useTranslation();
 
   return (
-    <div className="max-w-2xl mx-auto px-6 py-16 space-y-12">
+    <div className="max-w-4xl mx-auto px-6 py-16 grid grid-cols-1 md:grid-cols-2 gap-12">
       {products.map((product) => (
         <div key={product.name} className="space-y-5">
           {product.external ? (

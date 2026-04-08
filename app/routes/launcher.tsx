@@ -38,7 +38,7 @@ export default function Launcher() {
         </a>
 
         <a
-          href="https://github.com/flpstudio/zen-launcher"
+          href="https://github.com/paunin/zen-launcher"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-hover text-text-primary border border-border hover:border-text-secondary/30 transition-all text-sm font-medium"
